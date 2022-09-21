@@ -7,5 +7,6 @@
 "username": "wesleyl22",
 "name": "Wesley",
 "languages": {"LuaU", "Python", "Javascript", "HTML", "CSS", "C++"},
-"current": {"C++", "Competitive programming"}
+"current": {"C++", "Competitive programming"},
+"prepare": "OSN 2022"
 }
