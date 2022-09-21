@@ -6,5 +6,6 @@
 {
 "username": "wesleyl22",
 "name": "Wesley",
-"languages": {"LuaU", "Python", "Javascript", "HTML", "CSS", "C++"}
+"languages": {"LuaU", "Python", "Javascript", "HTML", "CSS", "C++"},
+"current": {"C++", "Competitive programming"}
 }
