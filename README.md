@@ -8,5 +8,5 @@
 "name": "Wesley",
 "languages": {"LuaU", "Python", "Javascript", "HTML", "CSS", "C++"},
 "current": {"C++", "Competitive programming"},
-"prepare": "OSN 2023"
+"status": "Ga lolos OSN-K 2023, preparing for OSN-K 2024"
 }
